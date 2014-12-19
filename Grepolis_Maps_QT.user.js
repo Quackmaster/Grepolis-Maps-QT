@@ -410,7 +410,7 @@ QT.Maps = {
 				if (lID == "de") {
 					image_url = 'http://grepolisqt.de/de/image-de/' + data.data.id;
 				} else {
-					image_url = 'http://grepolisqt.de/en/image-en/';
+					image_url = 'http://grepolisqt.de/en/image-en/' + data.data.id;
 				}
 
 				if (/chrom(e|ium)/.test(navigator.userAgent.toLowerCase())) {
