@@ -1,4 +1,4 @@
-// ==UserScript==
+ï»¿// ==UserScript==
 // @name        Grepolis Maps QT
 // @namespace   Quack
 // @description A screenshot tool for grepolismaps.org
@@ -23,7 +23,7 @@ QT.Lang = {
 	},
 	de : {
 		tools : {
-			brush_size : 'Pinselstärke',
+			brush_size : 'PinselstÃ¤rke',
 			color : 'Farbe',
 			eraser : 'Radiergummi',
 			pencil : 'Zeichenstift',
@@ -31,14 +31,14 @@ QT.Lang = {
 			rectangel : 'Rechteck',
 			line : 'Linie',
 			arc : 'Kreis',
-			delete_drawing : 'Zeichnung löschen',
-			fill : 'Füllen'
+			delete_drawing : 'Zeichnung lÃ¶schen',
+			fill : 'FÃ¼llen'
 	},
 		colors : {
 			black : "schwarz",
 			blue : "blau",
 			red : "rot",
-			green : "grün",
+			green : "grÃ¼n",
 			yellow : "gelb",
 			gray : "grau"
 		}
