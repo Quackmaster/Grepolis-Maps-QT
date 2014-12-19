@@ -3,6 +3,7 @@
 // @namespace   Quack
 // @description A screenshot tool for grepolismaps.org
 // @include     http://*.grepolismaps.org/*
+// @icon        http://s1.directupload.net/images/140711/eshmcqzu.png
 // @version     1.0
 // @require		http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
 // @grant       none
